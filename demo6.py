@@ -1,4 +1,4 @@
-# demo5.py - templates site
+# demo6.py - using includes to build multi-part pages
 # Kevin McAleer
 # 28 Aug 2022
 
