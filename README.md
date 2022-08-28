@@ -12,6 +12,7 @@ There are 6 demo programs:
 * [`demo4.py`](/demo4.py) - a simple site
 * [`demo5.py`](/demo5.py) - templates site
 * [`demo6.py`](/demo6.py) - using includes to build multi-part pages
+* [`demo7.py`](/demo7.py) - forms!
 
 ---
 
@@ -25,3 +26,4 @@ To run the demo programs you'll need to copy the following files to the Pico W:
 * `index.html`
 * `index2.html`
 * `nav.html`
+* `login.html`

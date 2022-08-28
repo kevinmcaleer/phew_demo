@@ -1,0 +1,20 @@
+{{render_template('header.html')}}
+
+<div class="container my-3 rounded">
+    <div class="container bg-light">
+        <form method="POST">
+            <div class="mb-3">
+                <label for="exampleInputEmail1" class="form-label">Username</label>
+                <input type="text" name="username" class="form-control" id="username"/>
+                <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+            </div>
+            <div class="mb-3">
+                <label for="exampleInputPassword1" class="form-label">Password</label>
+                <input type="password" name="password" class="form-control"/>
+            </div>
+            <button type="submit" value="Login">Submit</button>
+        </form>
+    </div>
+</div>
+
+{{render_template('footer.html')}}
